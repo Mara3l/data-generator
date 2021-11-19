@@ -1,0 +1,11 @@
+id,name,type,price,cost
+0,Core IoT Module,Modules,30,20
+1,Battery Module,Modules,25,18
+2,Sensor Module,Modules,20,15
+3,Power Module,Modules,30,22
+4,Encoder Module,Modules,15,10
+5,Temperature sensor,Sensors,20,14
+6,Humidity sensor,Sensors,20,13
+7,Flood detector,Sensors,10,8
+8,AirFlow sensor,Sensors,250,180
+9,Soil sensor,Sensors,40,25
